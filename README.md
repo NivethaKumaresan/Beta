@@ -18,9 +18,3 @@
 - **Styling**: Tailwind CSS (CDN Configuration) & Custom CSS Extensions
 - **Icons**: [Lucide Icons](https://lucide.dev/)
 - **Typography**: Plus Jakarta Sans
-
-## 🚀 Quick Start
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/beta-ui-platform.git](https://github.com/your-username/beta-ui-platform.git)
